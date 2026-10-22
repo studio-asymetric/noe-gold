@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/redeem-demo/index.html" },
+    { "source": "/((?!redeem-demo/).*)", "destination": "/redeem-demo/$1" }
+  ]
+}
