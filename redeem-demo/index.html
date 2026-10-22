@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NOE GOLD — Redeem</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <canvas id="vault" aria-hidden="true"></canvas>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="chrome">
+    <div class="brand">NOE GOLD</div>
+    <div class="account">Zlaté konto Premium PLUS</div>
+    <div class="pay-wrap">
+      <button class="pay" id="payBtn" type="button" aria-haspopup="menu" aria-expanded="false">
+        <span class="plus">+</span> New Payment
+      </button>
+      <div class="menu" id="menu" role="menu" hidden>
+        <button type="button" role="menuitem">Buy metal</button>
+        <button type="button" role="menuitem">Sell</button>
+        <button type="button" role="menuitem">Send</button>
+        <div class="rule"></div>
+        <button type="button" class="accent" id="redeemItem" role="menuitem">
+          Redeem voucher <em>New</em>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="home" id="home">
+    <p class="home-kicker">Account overview</p>
+    <h1>15,231.89 €</h1>
+    <p class="home-note">Open New Payment. Redeem voucher leaves the dashboard and the sidebar behind.</p>
+  </main>
+
+  <section class="stage" id="stage" hidden>
+    <div class="stage-top">
+      <span>NOE GOLD</span>
+      <button type="button" id="closeStage">Close</button>
+    </div>
+
+    <div class="desktop" id="desktop">
+      <p class="eyebrow">Redeem</p>
+      <h2>The code opens it</h2>
+      <p class="lede">Type the voucher code. The gold on the glass is the only thing that matters here.</p>
+      <form class="glass" id="codeForm">
+        <label for="d0">Voucher code</label>
+        <div class="code" id="codeRow">
+          <span class="prefix">NG-</span>
+          <input id="d0" inputmode="numeric" maxlength="1" aria-label="Digit 1" />
+          <input id="d1" inputmode="numeric" maxlength="1" aria-label="Digit 2" />
+          <input id="d2" inputmode="numeric" maxlength="1" aria-label="Digit 3" />
+          <input id="d3" inputmode="numeric" maxlength="1" aria-label="Digit 4" />
+          <input id="d4" inputmode="numeric" maxlength="1" aria-label="Digit 5" />
+        </div>
+        <button class="open" type="submit">Open voucher</button>
+      </form>
+      <button class="quiet" id="toScan" type="button">Have a QR instead? Scan it</button>
+    </div>
+
+    <div class="phone" id="phone" hidden>
+      <div class="finder" id="finder">
+        <span class="corner tl"></span>
+        <span class="corner tr"></span>
+        <span class="corner bl"></span>
+        <span class="corner br"></span>
+        <span class="beam"></span>
+        <p>Point at the voucher QR</p>
+      </div>
+      <button class="sheet" id="toCode" type="button">
+        <strong>Enter a code instead</strong>
+        <span>Scanning is the main act. The keyboard waits below.</span>
+      </button>
+    </div>
+
+    <div class="opened" id="opened" hidden>
+      <p class="eyebrow">Opened</p>
+      <h2 id="openedTitle">2 000 € is yours</h2>
+      <article class="voucher" id="voucher">
+        <div class="band"></div>
+        <p class="amount" id="voucherAmount">2 000 €</p>
+        <p class="kind">Univerzálny voucher</p>
+        <div class="pills"><i></i><i></i><i></i></div>
+      </article>
+      <p class="meta" id="openedMeta">NG-48120 · not activated yet · purpose chosen later</p>
+      <button class="open" id="done" type="button">Back to account</button>
+    </div>
+  </section>
+
+  <div class="view-toggle" role="group" aria-label="Preview size">
+    <button type="button" data-view="desktop" class="on">Desktop</button>
+    <button type="button" data-view="phone">Phone</button>
+  </div>
+
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.170.0/build/three.module.js"
+      }
+    }
+  </script>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>

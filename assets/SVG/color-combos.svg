@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="1280" viewBox="0 0 1640 1280" fill="none">
+  <rect width="1640" height="1280" fill="#F7F7F6"/>
+
+  <text x="48" y="72" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="40" font-weight="500">Color combos</text>
+  <text x="48" y="104" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="16">Silver, gold, and green. The stroked scale step is the source color.</text>
+
+  <rect x="1188" y="48" width="28" height="28" rx="6" fill="#DEDEDE" stroke="#1C2224" stroke-width="1"/>
+  <text x="1224" y="67" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#DEDEDE</text>
+  <rect x="1324" y="48" width="28" height="28" rx="6" fill="#EAB308"/>
+  <text x="1360" y="67" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#EAB308</text>
+  <rect x="1460" y="48" width="28" height="28" rx="6" fill="#065452"/>
+  <text x="1496" y="67" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#065452</text>
+
+  <g id="combo-signature">
+    <rect x="48" y="140" width="374" height="400" rx="16" fill="#065452"/>
+    <text x="72" y="180" fill="#8FCCC6" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">01</text>
+    <text x="72" y="220" fill="#F7F7F6" font-family="Inter, Geist, Arial, sans-serif" font-size="28" font-weight="500">Signature</text>
+    <text x="72" y="252" fill="#C5E4E1" font-family="Inter, Geist, Arial, sans-serif" font-size="15">Deep green with gold.</text>
+    <text x="72" y="276" fill="#8FCCC6" font-family="Inter, Geist, Arial, sans-serif" font-size="13">Highest voucher, and the brand.</text>
+    <rect x="72" y="312" width="88" height="8" rx="4" fill="#EAB308"/>
+    <text x="72" y="364" fill="#EAB308" font-family="Inter, Geist, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="1.5">NOE GOLD</text>
+    <text x="72" y="500" fill="#E7F4F3" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#065452</text>
+    <text x="160" y="500" fill="#EAB308" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#EAB308</text>
+  </g>
+
+  <g id="combo-paper">
+    <rect x="438" y="140" width="374" height="400" rx="16" fill="#F7F7F6" stroke="#DEDEDE" stroke-width="1"/>
+    <text x="462" y="180" fill="#7C8486" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">02</text>
+    <text x="462" y="220" fill="#065452" font-family="Inter, Geist, Arial, sans-serif" font-size="28" font-weight="500">Paper</text>
+    <text x="462" y="252" fill="#0E726B" font-family="Inter, Geist, Arial, sans-serif" font-size="15">Silver paper, green ink.</text>
+    <text x="462" y="276" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="13">Invoices and account screens.</text>
+    <rect x="462" y="308" width="120" height="36" rx="8" fill="#DEDEDE"/>
+    <text x="462" y="380" fill="#065452" font-family="Inter, Geist, Arial, sans-serif" font-size="20" font-weight="500">Account overview</text>
+    <text x="462" y="408" fill="#0E726B" font-family="Inter, Geist, Arial, sans-serif" font-size="14">Zlat&#233; konto &#183; 6,0404 &#8364;</text>
+    <text x="462" y="500" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#F7F7F6</text>
+    <text x="546" y="500" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#DEDEDE</text>
+    <text x="640" y="500" fill="#065452" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#065452</text>
+  </g>
+
+  <g id="combo-white-gold">
+    <rect x="828" y="140" width="374" height="400" rx="16" fill="#F3EEE3"/>
+    <text x="852" y="180" fill="#9A7208" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">03</text>
+    <text x="852" y="220" fill="#3F3008" font-family="Inter, Geist, Arial, sans-serif" font-size="28" font-weight="500">White gold</text>
+    <text x="852" y="252" fill="#6E520A" font-family="Inter, Geist, Arial, sans-serif" font-size="15">Silver mixed with gold.</text>
+    <text x="852" y="276" fill="#9A7208" font-family="Inter, Geist, Arial, sans-serif" font-size="13">The bridge between 1 000 and 4 000.</text>
+    <rect x="852" y="312" width="326" height="88" rx="12" fill="#B8963A"/>
+    <text x="872" y="352" fill="#FFF6E4" font-family="Inter, Geist, Arial, sans-serif" font-size="22" font-weight="500">3 000 &#8364;</text>
+    <text x="872" y="376" fill="#FFF6E4" font-family="Inter, Geist, Arial, sans-serif" font-size="13">Univerz&#225;lny voucher</text>
+    <text x="852" y="500" fill="#6E520A" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#B8963A</text>
+    <text x="940" y="500" fill="#6E520A" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#FFF6E4</text>
+    <text x="1028" y="500" fill="#6E520A" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#F3EEE3</text>
+  </g>
+
+  <g id="combo-living-green">
+    <rect x="1218" y="140" width="374" height="400" rx="16" fill="#0E726B"/>
+    <text x="1242" y="180" fill="#8FCCC6" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">04</text>
+    <text x="1242" y="220" fill="#E7F4F3" font-family="Inter, Geist, Arial, sans-serif" font-size="28" font-weight="500">Living green</text>
+    <text x="1242" y="252" fill="#C5E4E1" font-family="Inter, Geist, Arial, sans-serif" font-size="15">The same green, lifted.</text>
+    <text x="1242" y="276" fill="#8FCCC6" font-family="Inter, Geist, Arial, sans-serif" font-size="13">So 2 000 is not as dark as 4 000.</text>
+    <rect x="1242" y="320" width="72" height="28" rx="14" fill="#8FCCC6"/>
+    <rect x="1322" y="320" width="72" height="28" rx="14" fill="#4EAEA6"/>
+    <rect x="1402" y="320" width="72" height="28" rx="14" fill="#C5E4E1"/>
+    <text x="1242" y="392" fill="#E7F4F3" font-family="Inter, Geist, Arial, sans-serif" font-size="22" font-weight="500">2 000 &#8364;</text>
+    <text x="1242" y="500" fill="#E7F4F3" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#0E726B</text>
+    <text x="1330" y="500" fill="#C5E4E1" font-family="Inter, Geist, Arial, sans-serif" font-size="13">#E7F4F3</text>
+  </g>
+
+  <text x="48" y="596" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="20" font-weight="500">Scales</text>
+
+  <g id="scale-steps" fill="#7C8486" font-family="Inter, Geist, Arial, sans-serif" font-size="12">
+    <text x="128" y="632">50</text>
+    <text x="276" y="632">100</text>
+    <text x="424" y="632">200</text>
+    <text x="572" y="632">300</text>
+    <text x="720" y="632">400</text>
+    <text x="868" y="632">500</text>
+    <text x="1016" y="632">600</text>
+    <text x="1164" y="632">700</text>
+    <text x="1312" y="632">800</text>
+    <text x="1460" y="632">900</text>
+  </g>
+
+  <text x="48" y="684" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13">Silver</text>
+  <g id="scale-silver">
+    <rect x="128" y="656" width="140" height="48" rx="8" fill="#F7F7F6" stroke="#E4E4E2"/>
+    <rect x="276" y="656" width="140" height="48" rx="8" fill="#EFEFED"/>
+    <rect x="424" y="656" width="140" height="48" rx="8" fill="#DEDEDE" stroke="#1C2224" stroke-width="1.5"/>
+    <rect x="572" y="656" width="140" height="48" rx="8" fill="#C4C6C6"/>
+    <rect x="720" y="656" width="140" height="48" rx="8" fill="#A3A8A8"/>
+    <rect x="868" y="656" width="140" height="48" rx="8" fill="#7C8486"/>
+    <rect x="1016" y="656" width="140" height="48" rx="8" fill="#5E676A"/>
+    <rect x="1164" y="656" width="140" height="48" rx="8" fill="#464E51"/>
+    <rect x="1312" y="656" width="140" height="48" rx="8" fill="#2E3538"/>
+    <rect x="1460" y="656" width="140" height="48" rx="8" fill="#1C2224"/>
+  </g>
+  <g fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="11">
+    <text x="128" y="720">#F7F7F6</text>
+    <text x="276" y="720">#EFEFED</text>
+    <text x="424" y="720" fill="#1C2224" font-weight="500">#DEDEDE</text>
+    <text x="572" y="720">#C4C6C6</text>
+    <text x="720" y="720">#A3A8A8</text>
+    <text x="868" y="720">#7C8486</text>
+    <text x="1016" y="720">#5E676A</text>
+    <text x="1164" y="720">#464E51</text>
+    <text x="1312" y="720">#2E3538</text>
+    <text x="1460" y="720">#1C2224</text>
+  </g>
+
+  <text x="48" y="792" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13">Gold</text>
+  <g id="scale-gold">
+    <rect x="128" y="764" width="140" height="48" rx="8" fill="#FEF9E7"/>
+    <rect x="276" y="764" width="140" height="48" rx="8" fill="#FDF3C4"/>
+    <rect x="424" y="764" width="140" height="48" rx="8" fill="#FBE48A"/>
+    <rect x="572" y="764" width="140" height="48" rx="8" fill="#F5D04A"/>
+    <rect x="720" y="764" width="140" height="48" rx="8" fill="#EFC01A"/>
+    <rect x="868" y="764" width="140" height="48" rx="8" fill="#EAB308" stroke="#3F3008" stroke-width="1.5"/>
+    <rect x="1016" y="764" width="140" height="48" rx="8" fill="#C49206"/>
+    <rect x="1164" y="764" width="140" height="48" rx="8" fill="#9A7208"/>
+    <rect x="1312" y="764" width="140" height="48" rx="8" fill="#6E520A"/>
+    <rect x="1460" y="764" width="140" height="48" rx="8" fill="#3F3008"/>
+  </g>
+  <g fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="11">
+    <text x="128" y="828">#FEF9E7</text>
+    <text x="276" y="828">#FDF3C4</text>
+    <text x="424" y="828">#FBE48A</text>
+    <text x="572" y="828">#F5D04A</text>
+    <text x="720" y="828">#EFC01A</text>
+    <text x="868" y="828" fill="#1C2224" font-weight="500">#EAB308</text>
+    <text x="1016" y="828">#C49206</text>
+    <text x="1164" y="828">#9A7208</text>
+    <text x="1312" y="828">#6E520A</text>
+    <text x="1460" y="828">#3F3008</text>
+  </g>
+
+  <text x="48" y="900" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13">Green</text>
+  <g id="scale-green">
+    <rect x="128" y="872" width="140" height="48" rx="8" fill="#E7F4F3"/>
+    <rect x="276" y="872" width="140" height="48" rx="8" fill="#C5E4E1"/>
+    <rect x="424" y="872" width="140" height="48" rx="8" fill="#8FCCC6"/>
+    <rect x="572" y="872" width="140" height="48" rx="8" fill="#4EAEA6"/>
+    <rect x="720" y="872" width="140" height="48" rx="8" fill="#1F8A82"/>
+    <rect x="868" y="872" width="140" height="48" rx="8" fill="#0E726B"/>
+    <rect x="1016" y="872" width="140" height="48" rx="8" fill="#0A615B"/>
+    <rect x="1164" y="872" width="140" height="48" rx="8" fill="#085550"/>
+    <rect x="1312" y="872" width="140" height="48" rx="8" fill="#065452" stroke="#EAB308" stroke-width="1.5"/>
+    <rect x="1460" y="872" width="140" height="48" rx="8" fill="#043835"/>
+  </g>
+  <g fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="11">
+    <text x="128" y="936">#E7F4F3</text>
+    <text x="276" y="936">#C5E4E1</text>
+    <text x="424" y="936">#8FCCC6</text>
+    <text x="572" y="936">#4EAEA6</text>
+    <text x="720" y="936">#1F8A82</text>
+    <text x="868" y="936">#0E726B</text>
+    <text x="1016" y="936">#0A615B</text>
+    <text x="1164" y="936">#085550</text>
+    <text x="1312" y="936" fill="#1C2224" font-weight="500">#065452</text>
+    <text x="1460" y="936">#043835</text>
+  </g>
+
+  <text x="48" y="996" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="20" font-weight="500">Voucher faces</text>
+  <text x="196" y="996" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="14">Band, type, wash, pills. The 1 000 type is dark because their gold is bright.</text>
+
+  <g id="voucher-500">
+    <text x="48" y="1032" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">500 &#183; Silver</text>
+    <rect x="48" y="1044" width="296" height="116" rx="12" fill="#E8E9E9"/>
+    <rect x="48" y="1044" width="296" height="72" fill="#5E676A"/>
+    <rect x="48" y="1044" width="296" height="24" fill="#5E676A"/>
+    <text x="64" y="1086" fill="#F7F7F6" font-family="Inter, Geist, Arial, sans-serif" font-size="20">500 &#8364;</text>
+    <text x="64" y="1106" fill="#F7F7F6" font-family="Inter, Geist, Arial, sans-serif" font-size="12">Univerz&#225;lny voucher</text>
+    <rect x="64" y="1128" width="56" height="16" rx="8" fill="#C4C6C6"/>
+    <rect x="128" y="1128" width="40" height="16" rx="8" fill="#C4C6C6"/>
+    <rect x="176" y="1128" width="28" height="16" rx="8" fill="#C4C6C6"/>
+    <text x="48" y="1184" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="11">#5E676A   #F7F7F6   #E8E9E9   #C4C6C6</text>
+  </g>
+
+  <g id="voucher-1000">
+    <text x="360" y="1032" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">1 000 &#183; Gold</text>
+    <rect x="360" y="1044" width="296" height="116" rx="12" fill="#FBF3D4"/>
+    <rect x="360" y="1044" width="296" height="72" fill="#EAB308"/>
+    <rect x="360" y="1044" width="296" height="16" rx="12" fill="#EAB308"/>
+    <text x="376" y="1086" fill="#3F3008" font-family="Inter, Geist, Arial, sans-serif" font-size="20">1 000 &#8364;</text>
+    <text x="376" y="1106" fill="#3F3008" font-family="Inter, Geist, Arial, sans-serif" font-size="12">Univerz&#225;lny voucher</text>
+    <rect x="376" y="1128" width="56" height="16" rx="8" fill="#F5D04A"/>
+    <rect x="440" y="1128" width="40" height="16" rx="8" fill="#F5D04A"/>
+    <rect x="488" y="1128" width="28" height="16" rx="8" fill="#F5D04A"/>
+    <text x="360" y="1184" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="11">#EAB308   #3F3008   #FBF3D4   #F5D04A</text>
+  </g>
+
+  <g id="voucher-2000">
+    <text x="672" y="1032" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">2 000 &#183; Green</text>
+    <rect x="672" y="1044" width="296" height="116" rx="12" fill="#E4EFEE"/>
+    <rect x="672" y="1044" width="296" height="72" fill="#0E726B"/>
+    <rect x="672" y="1044" width="296" height="16" rx="12" fill="#0E726B"/>
+    <text x="688" y="1086" fill="#E7F4F3" font-family="Inter, Geist, Arial, sans-serif" font-size="20">2 000 &#8364;</text>
+    <text x="688" y="1106" fill="#E7F4F3" font-family="Inter, Geist, Arial, sans-serif" font-size="12">Univerz&#225;lny voucher</text>
+    <rect x="688" y="1128" width="56" height="16" rx="8" fill="#8FCCC6"/>
+    <rect x="752" y="1128" width="40" height="16" rx="8" fill="#8FCCC6"/>
+    <rect x="800" y="1128" width="28" height="16" rx="8" fill="#8FCCC6"/>
+    <text x="672" y="1184" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="11">#0E726B   #E7F4F3   #E4EFEE   #8FCCC6</text>
+  </g>
+
+  <g id="voucher-3000">
+    <text x="984" y="1032" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">3 000 &#183; White gold</text>
+    <rect x="984" y="1044" width="296" height="116" rx="12" fill="#F3EEE3"/>
+    <rect x="984" y="1044" width="296" height="72" fill="#B8963A"/>
+    <rect x="984" y="1044" width="296" height="16" rx="12" fill="#B8963A"/>
+    <text x="1000" y="1086" fill="#FFF6E4" font-family="Inter, Geist, Arial, sans-serif" font-size="20">3 000 &#8364;</text>
+    <text x="1000" y="1106" fill="#FFF6E4" font-family="Inter, Geist, Arial, sans-serif" font-size="12">Univerz&#225;lny voucher</text>
+    <rect x="1000" y="1128" width="56" height="16" rx="8" fill="#E4D7A8"/>
+    <rect x="1064" y="1128" width="40" height="16" rx="8" fill="#E4D7A8"/>
+    <rect x="1112" y="1128" width="28" height="16" rx="8" fill="#E4D7A8"/>
+    <text x="984" y="1184" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="11">#B8963A   #FFF6E4   #F3EEE3   #E4D7A8</text>
+  </g>
+
+  <g id="voucher-4000">
+    <text x="1296" y="1032" fill="#1C2224" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="500">4 000 &#183; Deep green</text>
+    <rect x="1296" y="1044" width="296" height="116" rx="12" fill="#E3EBEA"/>
+    <rect x="1296" y="1044" width="296" height="72" fill="#065452"/>
+    <rect x="1296" y="1044" width="296" height="16" rx="12" fill="#065452"/>
+    <text x="1312" y="1086" fill="#EAB308" font-family="Inter, Geist, Arial, sans-serif" font-size="20">4 000 &#8364;</text>
+    <text x="1312" y="1106" fill="#EAB308" font-family="Inter, Geist, Arial, sans-serif" font-size="12">Univerz&#225;lny voucher</text>
+    <rect x="1312" y="1128" width="56" height="16" rx="8" fill="#C4A35A"/>
+    <rect x="1376" y="1128" width="40" height="16" rx="8" fill="#C4A35A"/>
+    <rect x="1424" y="1128" width="28" height="16" rx="8" fill="#C4A35A"/>
+    <text x="1296" y="1184" fill="#5E676A" font-family="Inter, Geist, Arial, sans-serif" font-size="11">#065452   #EAB308   #E3EBEA   #C4A35A</text>
+  </g>
+</svg>
